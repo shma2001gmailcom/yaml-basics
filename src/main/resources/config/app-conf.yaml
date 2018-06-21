@@ -1,0 +1,8 @@
+
+# Connection parameters
+connection:
+    url: jdbc:mysql://localhost:3306/TEST
+    password: '0mishamisha'
+    user: 'root'
+
+
